@@ -10,7 +10,7 @@
 <h2><b><i>Hi i am effyxt 👋⚡</i></b></h2>
 
 <h3><b><i> My Awsome Works :</i></b></h3>
-<li> <a href="https://github.com/effyxt/FREE-TIKTOK-SHARE-BOT-unlimited-shares-fast-free-toktok-share-bot-">decent tiktok share tool</a>
+<li> <a href="https://github.com/effyxt/FREE-TIKTOK-SHARE-BOT-unlimited-shares-fast-free-toktok-share-bot-">TikTok Share Tool</a>
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
