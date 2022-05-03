@@ -9,10 +9,6 @@
 
 <h2><b><i>Hi i am effyxt 👋⚡</i></b></h2>
 
-<h3><b><i> My Awsome Works :</i></b></h3>
-<li> <a href="https://github.com/effyxt/FREE-TIKTOK-SHARE-BOT-unlimited-shares-fast-free-toktok-share-bot-">TikTok Share Tool</a>
-
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/effyxt"><img width=550 src="https://github-profile-trophy.vercel.app/?username=effyxt&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
