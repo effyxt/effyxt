@@ -20,5 +20,5 @@
 
 
 ## My Social Media:
-<li> <a href="https://effyxt.xyz">effyxt.xyz</a>
+<li> no domain anymore lol
  
